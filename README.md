@@ -1,88 +1,55 @@
-<h1 style="color:#6A7BA2;">Jessica Tennant</h1>
+<h1 align="center">Jessica Tennant</h1>
+<p align="center">
+  <b>Lead Pharmacy Tech → IT & Cybersecurity &nbsp;·&nbsp; CVS Health &nbsp;·&nbsp; Star City, WV</b>
+</p>
 
-IT Operations • Enterprise AI Systems • Cybersecurity
+---
 
-Driven by curiosity and passionate about AI systems, workflow improvement, and technology that helps people.
+### About
 
-<hr style="border: 1px solid #6A7BA2;">
+I'm an IT student with over 16 years of experience working in fast-paced healthcare operations at CVS Health. Over the years, I've become known for troubleshooting workflow problems, training employees, explaining complex processes clearly, and helping keep day-to-day operations running smoothly in high-pressure environments.
 
-<h2 style="color:#6A7BA2;">About Me</h2>
+I'm especially passionate about AI systems, prompt behavior, AI governance, cybersecurity, and figuring out how technology can improve real-world workflows instead of just looking impressive on paper. I enjoy experimenting with systems, solving operational problems, and understanding both what technology can do and where its limitations are. I'm particularly interested in how AI can be designed and implemented in ways that genuinely help people.
 
-I’m an IT student and operations-focused professional with over 16 years of experience supporting high-volume healthcare environments at CVS Health. My background includes troubleshooting workflow issues, training and onboarding employees, maintaining regulatory compliance, and supporting reliable day-to-day operations in fast-paced environments.
+---
 
-I’m especially interested in enterprise AI systems, prompt behavior, AI governance, cybersecurity, and how technology can improve real-world workflows and user experiences. I enjoy learning new systems, testing processes, solving operational problems, and helping people understand and use technology more effectively.
+### Skills & Tools
 
-<h2 style="color:#6A7BA2;">Technical Skills</h2>
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-185FA5?style=flat&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-2C2C6E?style=flat&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-2C2C6E?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-2C2C6E?style=flat&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2C2C6E?style=flat&logoColor=white)
+![HIPAA Compliance](https://img.shields.io/badge/HIPAA%2FCompliance-0a3d2e?style=flat&logoColor=white)
+![NIST 800-63B](https://img.shields.io/badge/NIST%20800--63B-0a3d2e?style=flat&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-0a3d2e?style=flat&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-0a3d2e?style=flat&logoColor=white)
 
-<strong>Languages & Technologies</strong>
+---
 
-- Python
-- SQL
-- Java
-- HTML/CSS
-- GitHub
+### Certifications
 
-<strong>Areas of Interest</strong>
+![IT Fundamentals Pro](https://img.shields.io/badge/IT%20Fundamentals%20Pro-633806?style=flat&logoColor=white)
+![PC Pro](https://img.shields.io/badge/PC%20Pro%20(A%2B%20equiv.)-633806?style=flat&logoColor=white)
+![Network Pro](https://img.shields.io/badge/Network%20Pro%20(Network%2B%20equiv.)-633806?style=flat&logoColor=white)
+![Security Pro](https://img.shields.io/badge/Security%20Pro%20(Security%2B%20equiv.)-633806?style=flat&logoColor=white)
 
-- Enterprise AI Systems
-- Prompt Testing & Optimization
-- AI Governance
-- IT Operations
-- Cybersecurity
-- Workflow Optimization
-- Technical Documentation
-- Systems Analysis
+---
 
-<strong>Platforms & Tools</strong>
+### Currently
 
-- ServiceNow
-- IssueTrak
-- Windows Administration
-- Cisco Networking Labs
-- Linux Fundamentals
+| | |
+|---|---|
+| **Studying** | Cloud infrastructure and security · AI governance |
+| **Building** | Security tooling and AI-powered projects |
+| **Graduating** | B.S.I.T. — Strayer University — June 2026 (4.0 GPA) |
 
-<h2 style="color:#6A7BA2;">Certifications</h2>
+---
 
-- TestOut IT Fundamentals Pro | CompTIA ITF+ Equivalent
-- TestOut PC Pro | CompTIA A+ Equivalent
-- TestOut Network Pro | CompTIA Network+ Equivalent
-- TestOut Security Pro | CompTIA Security+ Equivalent
+### Connect
 
-Performance-based certifications completed through 160+ hours of hands-on labs.
-
-<h2 style="color:#6A7BA2;">Current Learning Focus</h2>
-
-- AI governance and responsible AI usage
-- Enterprise AI systems and prompt workflows
-- Python scripting and automation concepts
-- SQL and database fundamentals
-- Linux and networking fundamentals
-- IT operations and incident management workflows
-- AI-assisted workflow improvement
-
-<h2 style="color:#6A7BA2;">Featured Projects</h2>
-
-<strong>Secure Banking Payroll Database</strong>  
-Security-focused database project involving payroll handling, workflow structure, and access control concepts.
-
-<strong>Cybersecurity & Networking Labs</strong>  
-Hands-on labs involving troubleshooting, networking, system administration, and operational support workflows.
-
-<strong>AI Workflow & Training Concepts</strong>  
-Ongoing exploration of AI-assisted workflow improvement, onboarding systems, prompt testing, and operational support ideas.
-
-<h2 style="color:#6A7BA2;">Strengths</h2>
-
-- Systems Thinking
-- Troubleshooting & Workflow Analysis
-- Technical Communication
-- Training & Onboarding
-- Documentation & Organization
-- Operational Reliability
-- Prompt Experimentation & AI Workflow Thinking
-- Continuous Learning
-
-<h2 style="color:#6A7BA2;">Connect With Me</h2>
-
-- LinkedIn: https://www.linkedin.com/in/jessica324/
-- Email: j.a.tennant@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica324/)
+[![Email](https://img.shields.io/badge/Email-185FA5?style=flat&logo=gmail&logoColor=white)](mailto:j.a.tennant@gmail.com)
