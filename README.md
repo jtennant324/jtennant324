@@ -20,10 +20,8 @@ I'm especially passionate about AI systems, prompt behavior, AI governance, cybe
 
 ![Python](https://img.shields.io/badge/Python-1565C0?style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1565C0?style=flat&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1565C0?style=flat&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1565C0?style=flat&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1565C0?style=flat&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=flat&logo=github&logoColor=white)
 
 **Platforms & Tools**
 
